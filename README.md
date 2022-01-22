@@ -1,38 +1,48 @@
-# Gereksiz Bilgiler API
+# 🧠 Gereksiz Bilgiler API
+100'den fazla gereksiz bilgi ile oluşturulmuş bir JSON API.
 
-'den fazla gereksiz bilgi ile oluşturulmuş bir JSON API.
-
-## Basit Kullanım
+## 🧐 Basit Kullanım
 
 ```bash
-GET https://gereksiz-bilgiler-api.herokuapp.com/
+GET https://gereksiz-bilgiler-api.herokuapp.com
+```
+
+## Sonuç 
+
+```json
+{
+  "fact": "İnsanların %74'ü bir şey alırken cüzdanındaki bozuk paralar yetiyorsa onu bedavaya almış hissine kapılıyor.",
+  "id": 102
+}
+```
+
+## 💻 Kullanılan Teknolojiler
+* Node / Express.js
+
+## 🔷 Endpointler
+|Endpoint|Sonuç|
+|-----|-----|
+|/|Rastgele bir gereksiz bilgi döndürür.|
+|/all|Tüm gereksiz bilgileri döndürür.|
+|/:id|Girilen id'ye ait gereksiz bilgiyi döndürür.|
+
+## Örnek
+
+```bash
+GET https://gereksiz-bilgiler-api.herokuapp.com/5
 ```
 
 ## Sonuç
 
 ```json
 {
-    "id": 1,
-    "fact": "Eğer bir fotoğrafta bir insan gözüne yeterli miktarda zum yaparsanız, bu insanın gözüne düşen görüntüleri görebilirsiniz."
+  "fact": "Eyfel Kulesi'nin tepesine kadar 1792 basamak vardır.",
+  "id": 5
 }
 ```
 
-<br>
+## 💪 Katkıda Bulunanlar
+* Gereksiz bilgilerim toplanmasında ve ```facts.json``` dosyasının oluşturulmasında emeği geçen [İlknur Ceren Akkaya](mailto:ilkcerakkaya@gmail.com)'ya teşekkür ederim.
 
-## Endpointler
-
-|Endpoint|Sonuç|
-|--------|-----|
-|/|JSON biçiminde rastgele bir gereksiz bilgi döndürür.|
-|/:id|Girilen id'ye göre JSON biçiminde gereksiz bilgi döndürür.|
-
-<br>
-
-## Katkıda Bulunanlar
-Bilgilerin toplanmasında ve <a href="https://github.com/orhanemree/gereksiz-bilgiler-api/blob/master/facts.json">facts.json</a> dosyasının hazırlanmasında emeği geçen <a href="mailto:ilkcerakkaya@gmail.com">İlknur Ceren Akkaya</a>'ya teşekkür ederim.
-
-## Kaynakça
-*/Buraya kaynakça yazılacak/*
-
-## Lisans
-Gereksiz Bilgiler API [Apache License 2.0](https://github.com/orhanemree/gereksiz-bilgiler-api/blob/master/LICENSE) ile lisanslanmıştır.
+## 📃 Lisans
+* Gereksiz Bilgiler API [Apache License 2.0](https://github.com/orhanemree/gereksiz-bilgiler-api/blob/master/LICENSE) ile lisanslanmıştır.

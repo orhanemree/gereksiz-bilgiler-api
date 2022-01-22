@@ -1,70 +1,482 @@
 [
     {
         "id": 1,
-        "fact": "Eğer bir fotoğrafta bir insan gözüne yeterli miktarda zum yaparsanız, bu insanın gözüne düşen görüntüleri görebilirsiniz."
+        "fact": "Sümüklüböceklerin dört tane burnu vardır."
     },
     {
         "id": 2,
-        "fact": "Uykusuz kalmak zihninizde aslında hiç yaşanmamış hatıralar yaratmanıza neden olur."
+        "fact": "Kadınlar erkeklere oranla iki kat daha fazla göz kırparlar."
     },
     {
         "id": 3,
-        "fact": "Günde 2 defadan fazla dişlerinizi fırçalarsanız arabanızın benzini daha hızlı bitmez."
+        "fact": "Bir kilo limonda, bir kilo çilekten daha fazla şeker vardır."
     },
     {
         "id": 4,
-        "fact": "Yemeğinin kaybolduğunu fark eden bir adam evine yerleştirdiği webcam ile bir kadının bir yılı aşkın süredir adamın bilgisi dışında dolabında yaşadığını öğrendi."
+        "fact": "Kereviz yerken harcanan kalori, kerevizin içindeki kaloriden daha fazladır."
     },
     {
         "id": 5,
-        "fact": "Pazar günü ile başlayan her ayın 13. Günü cumadır."
+        "fact": "Eyfel Kulesi'nin tepesine kadar 1792 basamak vardır."
     },
     {
         "id": 6,
-        "fact": "Gaslighting bir tür psikolojik suistimal yoludur. Sürekli olarak yanlış bilgiler verilen kişi kendi hafızasını sorgulamaya başlar."
+        "fact": "Mc Donalds'in karının %40'ı çocuk menüsü satışından gelir."
     },
     {
         "id": 7,
-        "fact": "Gözlerimiz yaşam boyu aynı büyüklüktedir zamanla büyümezler."
+        "fact": "Her gün doğan çocukların ortalama 12'si yanlış anne babaya verilmektedir."
     },
     {
         "id": 8,
-        "fact": "Devekuşlarının gözleri beyinlerinden daha büyüktür."
+        "fact": "Yetişkin bir insan, ömrü boyunca uzaktan kumandanın tuşlarına basarken yaptığı başparmak hareketine harcadığı toplam enerjiyle bir su aygırını kaldırıp 3 metre havaya fırlatabilir."
     },
     {
         "id": 9,
-        "fact": "Her insanın parmak izi gibi dilinin izi de farklıdır."
+        "fact": "Bir yıl boyunca dünyadaki lavaboları tıkayan saçların miktarı, dünyadaki kellerin yüzde 78'ine yetecek kadardır."
     },
     {
         "id": 10,
-        "fact": "Çakmak kibritten önce icad edilmiştir."
+        "fact": "Bir insan yaşamı boyunca uykusu sırasında ortalama 70 böcek ve 10 örümcek yutar."
     },
     {
         "id": 11,
-        "fact": "Gözleriniz açık bir şekilde hapşırmak imkansızdır."
+        "fact": "Bugüne kadar bilinen en büyük böbrek taşı 1.36 kg'dır."
     },
     {
         "id": 12,
-        "fact": "İnekler merdiven çıkabilir ama inemezler."
+        "fact": "Eğer Barbie gerçekten yaşasaydı vücut ölçüleri 97-72-87 olacaktı."
     },
     {
         "id": 13,
-        "fact": "Hiçbir kağıt parçası 7 defadan fazla ikiye katlanamaz."
+        "fact": "Ingiltere'deki bütün kuğular kraliyet ailesine aittir."
     },
     {
         "id": 14,
-        "fact": "Dünya çapında her yıl, gerçek paradan daha fazla Monopoly parası üretilmektedir."
+        "fact": "Buckingham sarayında 602 oda bulunuyor."
     },
     {
         "id": 15,
-        "fact": "Uyurken, Tv izlerken olduğundan daha fazla kalori harcarsınız."
+        "fact": "Fareler kusamaz."
     },
     {
         "id": 16,
-        "fact": "Hergün doğan çocukların ortalama yüzde 12 si yanlış anne babaya verilmektedir."
+        "fact": "Sağ elini kullanan insanlar sol elini kullananlara göre ortalama dokuz yıl daha fazla yaşıyorlar."
     },
     {
         "id": 17,
-        "fact": "Dünyada insandan çok tavuk vardır. "
+        "fact": "Bir insan hayatı boyunca ortalama iki yılını telefonda konuşarak harcıyor."
+    },
+    {
+        "id": 18,
+        "fact": "Sahra Çölü'ne 18 Þubat 1979 tarihinde, kar yağmıştır."
+    },
+    {
+        "id": 19,
+        "fact": "Bir Big Mac hamburger ekmeğinde ortalama 170 adet susam bulunuyor."
+    },
+    {
+        "id": 20,
+        "fact": "Sabahları elma yemek kahve içmekten daha fazla uyku açar."
+    },
+    {
+        "id": 21,
+        "fact": "Evinizdeki toz parçacıklarının büyük çoğunluğu ölmüş deri dokusudur."
+    },
+    {
+        "id": 22,
+        "fact": "Hiçbir kağıt parçası 7 defadan fazla ikiye katlanamaz."
+    },
+    {
+        "id": 23,
+        "fact": "Rus Hükümeti gelirinin %10’unu vodka satışından sağlıyor."
+    },
+    {
+        "id": 24,
+        "fact": "Çakmak, kibritten önce icat edilmiştir."
+    },
+    {
+        "id": 25,
+        "fact": "Yiyeceğin ağzınızdan midenize ulaşması 7 saniye sürer."
+    },
+    {
+        "id": 26,
+        "fact": "Hindistan'daki yıllık doğum sayısı, Avustralya'nın toplam nüfusundan fazladır."
+    },
+    {
+        "id": 27,
+        "fact": "Yataktan düşerek ölme olasılığınız iki milyonda birdir."
+    },
+    {
+        "id": 28,
+        "fact": "Bir yıldırımın yarattığı güç ile 100 bin ekmek kızartılabilir."
+    },
+    {
+        "id": 29,
+        "fact": "Dünyanın çekirdeği 5700 derecedir."
+    },
+    {
+        "id": 30,
+        "fact": "yüzeyi ile aynı sıcaklıktadır."
+    },
+    {
+        "id": 31,
+        "fact": "Nepal, bayrağı dörtgen olmayan tek ülkedir."
+    },
+    {
+        "id": 32,
+        "fact": "Çok kalabalık bir havuzda bir saat yüzdüğünüz de 250 mililitre ile yarım litre arasında insan idrarı yutarsınız."
+    },
+    {
+        "id": 33,
+        "fact": "Kanada, Kızılderili dilinde 'büyük köy' anlamına geliyor."
+    },
+    {
+        "id": 34,
+        "fact": "Soğuk su içmek, cildi sıkılaştırır ve cildin daha parlak görünmesini sağlar."
+    },
+    {
+        "id": 35,
+        "fact": "Dünyanın ağırlığı yaklaşık 6,588,000,000,000,000,000,000,000 tondur."
+    },
+    {
+        "id": 36,
+        "fact": "3 renkli kedilerin hepsi dişidir."
+    },
+    {
+        "id": 37,
+        "fact": "Kelebekler ayaklarıyla tat alırlar."
+    },
+    {
+        "id": 38,
+        "fact": "Kıta isimlerinin hepsi aynı harfle başlayıp aynı harfle biter."
+    },
+    {
+        "id": 39,
+        "fact": "Sıcak su, soğuk sudan daha hızlı donar."
+    },
+    {
+        "id": 40,
+        "fact": "Devekuşları yüzebilir ama uçamaz."
+    },
+    {
+        "id": 41,
+        "fact": "Burun deliklerine pastırma sıkıştırmak şideetli burun kanamalarını durdurabilir."
+    },
+    {
+        "id": 42,
+        "fact": "Arıların beş gözü vardır."
+    },
+    {
+        "id": 43,
+        "fact": "Finlandiya'da 180.000 ada vardır, yani ülkedeki her 30 kişiye bir ada düşmektedir."
+    },
+    {
+        "id": 44,
+        "fact": "Bazı karıncalar hastalıktan korumak için birbirini yalar."
+    },
+    {
+        "id": 45,
+        "fact": "Tayvan'da insanlar çöplerini dışarı çıkarmayı hatırlasınlar diye çöp kamyonları müzik yayını yaparak dolaşır."
+    },
+    {
+        "id": 46,
+        "fact": "Bazı yabani çiçekler çikolata kokar."
+    },
+    {
+        "id": 47,
+        "fact": "Kaşındığı zaman sırtınızı kaşımak, kolunuzu kaşımaktan daha zevklidir."
+    },
+    {
+        "id": 48,
+        "fact": "Eğer dilin bir kurbağanın dili kadar uzun olsaydı, ucu göbek deliğine kadar gelirdi."
+    },
+    {
+        "id": 49,
+        "fact": "Mars'ta gün batımları mavi renkte olur."
+    },
+    {
+        "id": 50,
+        "fact": "Dev balkabakları günde 23 kg kadar büyüyebilir."
+    },
+    {
+        "id": 51,
+        "fact": "Ay'a giden insan sayısı, okyanusların dibine dalan insan sayısından fazladır."
+    },
+    {
+        "id": 52,
+        "fact": "Bir Japon şirketi evcil hayvanlar için samuray zırhları üretmektedir."
+    },
+    {
+        "id": 53,
+        "fact": "Dünyanın en büyük yarasasının kanat açıklığı bir koltuk genişliğindedir."
+    },
+    {
+        "id": 54,
+        "fact": " Venüs'ün yüzeyinde 9 saniyede bir büyük pizza pişirebilirsin."
+    },
+    {
+        "id": 55,
+        "fact": "Uğur böcekleri tehlike anında ölü taklidi yaparlar."
+    },
+    {
+        "id": 56,
+        "fact": "Bebeklerin tat alma cisimcikleri yanaklarındadır."
+    },
+    {
+        "id": 57,
+        "fact": "Dolunay kış aylarında yaz aylarına göre daha parlak gözükür."
+    },
+    {
+        "id": 58,
+        "fact": "Safran, dünyanın en pahalı baharatıdır ve gramı 16 dolara satılmaktadır."
+    },
+    {
+        "id": 59,
+        "fact": "Parmak izleri kağıt üzerinde 40 yıl kadar dayanır."
+    },
+    {
+        "id": 60,
+        "fact": "Balinaların göbek delikleri vardır."
+    },
+    {
+        "id": 61,
+        "fact": "Eski Mısır'da yalnızca kraliyet ailesinin mantar yemesine izin veriliyordu."
+    },
+    {
+        "id": 62,
+        "fact": "Dünyanın en zengin 3 ailesi, en fakir 48 ülkenin toplam servetinden daha fazla servete sahiptir."
+    },
+    {
+        "id": 63,
+        "fact": "Genç zürafalar bazen mööler."
+    },
+    {
+        "id": 64,
+        "fact": "Bazı kişiler doğuştan çift sıra kirpiğe sahiptir."
+    },
+    {
+        "id": 65,
+        "fact": "ABD'de 100 yıl öncesine kadar diş fırçalarının kılları domuz kılından yapılmaktaydı."
+    },
+    {
+        "id": 66,
+        "fact": "Balıklar bazen öksürebilir."
+    },
+    {
+        "id": 67,
+        "fact": "Ovoloji, kuş yumurtalarını inceleyen bilim dalının adıdır."
+    },
+    {
+        "id": 68,
+        "fact": "Beynin, bir bilgisayardan 100 kat daha fazla bilgi barındırabilir."
+    },
+    {
+        "id": 69,
+        "fact": "Günde yaklaşık 500 milyon tweet atılmaktadır."
+    },
+    {
+        "id": 70,
+        "fact": "Astrafobi, gök gürültüsü ve yıldırımdan korkmaya verilen addır."
+    },
+    {
+        "id": 71,
+        "fact": "Katil böcek adı verilen bir böcek türü, daha büyük görünmek için sırtında ölü karıncaları taşır."
+    },
+    {
+        "id": 72,
+        "fact": "Bir zamanlar margarin yapımında balina yağı kullanılırdı."
+    },
+    {
+        "id": 73,
+        "fact": "Sadece dişi sivrisinekler ısırır."
+    },
+    {
+        "id": 74,
+        "fact": "Her geçen yüzyıl, dünyadaki bir günün uzunluğu saniyenin 1/500'ü kadar uzar."
+    },
+    {
+        "id": 75,
+        "fact": "ABD başkanlarından Woodrow Wilson, kar yağdığında siyah bir golf topuyla golf oynardı."
+    },
+    {
+        "id": 76,
+        "fact": "Pasifik Okyanusu'nun yüzey ölçümü, diğer tüm kıtaların yüzey ölçümlerinin toplamından daha büyüktür."
+    },
+    {
+        "id": 77,
+        "fact": "Çin'de bebekler doğduklarında 1 yaşında sayılıyorlar."
+    },
+    {
+        "id": 78,
+        "fact": "Singapur'da sakız bulundurmak veya satmak yasaktır."
+    },
+    {
+        "id": 79,
+        "fact": "Tek yumurta ikizi olan iki kadın, tek yumurta ikizi olan iki erkekle evlenip çocuk yaparlarsa, çocukları genetik olarak 'kardeş' olacaktır."
+    },
+    {
+        "id": 80,
+        "fact": "Her hapşırıkta, beyin hücrelerinin bir kısmı ölür."
+    },
+    {
+        "id": 81,
+        "fact": "Antarktika'daki toplam buz miktarı, Atlas Okyanusu'ndaki su miktarına eşittir."
+    },
+    {
+        "id": 82,
+        "fact": "Bir günde 24 saat yoktur."
+    },
+    {
+        "id": 83,
+        "fact": "İnsan DNA'sı %50 oranında muz DNA'sı ile aynıdır."
+    },
+    {
+        "id": 84,
+        "fact": "Dünyadaki insanların üçte ikisi hiç kar görmedi."
+    },
+    {
+        "id": 85,
+        "fact": "Geceleri sabaha göre 1 cm daha kısa olursunuz."
+    },
+    {
+        "id": 86,
+        "fact": "Bugün neredeyse hayatımızın her alanında olan Google'ın ilk adı 'BackRub'dı."
+    },
+    {
+        "id": 87,
+        "fact": "Güneş sisteminde saat yönünde dönen tek gezegen Venüs'tür."
+    },
+    {
+        "id": 88,
+        "fact": "Eğer Dünya’da 15 yaşındaysanız Mars’ta 8 yaşında olursunuz."
+    },
+    {
+        "id": 89,
+        "fact": "1 Mars yılı, 686,9 Dünya gününe eşittir."
+    },
+    {
+        "id": 90,
+        "fact": "Dünyada, nüfusuna oranla en çok suç işlenen yer, Vatikan'dır."
+    },
+    {
+        "id": 91,
+        "fact": "Japonya Tokya'da bulunan bir kuyumcu, 24 ayar altın Darth Vader maskesi satmıştır."
+    },
+    {
+        "id": 92,
+        "fact": "Dünya'da her gün satılan akıllı telefon sayısı, doğan bebek sayısından daha fazladır."
+    },
+    {
+        "id": 93,
+        "fact": "Yaygın bir efsaneye göre Özgürlük Heykeli yakınlarında gömülü bir hazine sandığı var."
+    },
+    {
+        "id": 94,
+        "fact": "Daha az yağmur alarak yetiştiğinde kırmızı biberler daha acı olur."
+    },
+    {
+        "id": 95,
+        "fact": "maNga'nın Bir Kadın Çizeceksin şarkısının Youtube versiyonunda nakaratta 'saklayıp gömeceksin' cümlesinden sonra Ferman Akgül kısık bir sesle 'ki sende başka' derken, Spotify versiyonunda söylemiyor."
+    },
+    {
+        "id": 96,
+        "fact": "Bir aynanın üzerine b harfi çizerseniz aynadaki kendiniz d harfini çizer."
+    },
+    {
+        "id": 97,
+        "fact": "Yarış oyunlarında, tuşa sert basınca daha hızlı gitmezsiniz."
+    },
+    {
+        "id": 98,
+        "fact": "20 Mart, Dünya Mutluluk Günü'dür."
+    },
+    {
+        "id": 99,
+        "fact": "İspanya'da 'El Diablo' adında, yiyecekleri volkan ateşinde pişiren bir restoran vardır."
+    },
+    {
+        "id": 100,
+        "fact": "10 dakika boyunca sürekli aynaya bakarsanız beyniniz artık dikkat dağıtmak için, aslında olmayan şeyleri gösterir. Yani aynaya bakarken görülen paranormal olayların sebebi budur"
+    },
+    {
+        "id": 101,
+        "fact": "Çimen kızlara, erkeklere olduğundan daha yeşil görünür."
+    },
+    {
+        "id": 102,
+        "fact": "İnsanların %74'ü bir şey alırken cüzdanındaki bozuk paralar yetiyorsa onu bedavaya almış hissine kapılıyor."
+    },
+    {
+        "id": 103,
+        "fact": "Araştırmalara göre genelde 2. çocuk en sorunlu çocuk olmaktadır."
+    },
+    {
+        "id": 104,
+        "fact": "Ankara dışında diğer 80 ilin ismi kanunla değiştirilebilir."
+    },
+    {
+        "id": 105,
+        "fact": "Jackie Chan, Çin'deki sinema salonlarının yaklaşık yarısının sahibidir."
+    },
+    {
+        "id": 106,
+        "fact": "Shiba Inu cinsi bir köpek olan Bodhi, Instagram'da modellik yaparak yılda 180,000 dolar kazanıyor."
+    },
+    {
+        "id": 107,
+        "fact": "Tokyo'da, ahtapot, karides, at eti ve inek dili aromalı dondurmalar oldukça yaygındır."
+    },
+    {
+        "id": 108,
+        "fact": " Pek çok kişi tarafından tüm zamanların en iyi keman virtüözü olarak kabul edilen Niccolò Paganini, o kadar iyi bir müzisyendi ki, insanlar onun şeytanın oğlu olduğuna veya yeteneğini kazanmak uğruna ruhunu sattığına inanıyordu."
+    },
+    {
+        "id": 109,
+        "fact": "Bir Japon inanışına göre; eğer uyuyamıyorsanız, uyanmak istediğiniz yerde değilsinizdir."
+    },
+    {
+        "id": 110,
+        "fact": "Eski Mısır'da bir kedi öldüğünde, yaşadığı evin sakinleri kaşlarını kazıyarak yas tutardı."
+    },
+    {
+        "id": 111,
+        "fact": "Bir salatalığın içi, dışarıya göre 11°C derece daha serin olabilir."
+    },
+    {
+        "id": 112,
+        "fact": "Kasırgalar çoğunlukla öğleden sonra 3 ile 9 arasında görülür."
+    },
+    {
+        "id": 113,
+        "fact": "Ağaca tırmanan keçiler, tükürerek tohumların yayılmasını sağlar."
+    },
+    {
+        "id": 114,
+        "fact": "Astronotlar uzayın metal ve kurutulmuş biftek gibi koktuğunu söylüyorlar."
+    },
+    {
+        "id": 115,
+        "fact": "1,3 cm'lik bağırsak solucanının 60 tane gözü vardır."
+    },
+    {
+        "id": 116,
+        "fact": "Yaklaşık 14 milyon sahte Facebook hesabı vardır."
+    },
+    {
+        "id": 117,
+        "fact": "Kaşif Marko Polo, gergedanı ilk gördüğünde onu tek boynuzlu bir at sanmıştı."
+    },
+    {
+        "id": 118,
+        "fact": "İneklerin aralarında arkadaşlık kurdukları ve ayrı kaldıkları zaman stres yaşadıkları bilinmektedir."
+    },
+    {
+        "id": 119,
+        "fact": "Milli piyango oynamaya giderken ölme ihtimaliniz, milli piyangoyu kazanma ihtimalinizden daha yüksektir."
+    },
+    {
+        "id": 120,
+        "fact": "Emojilerde burun yoktur."
     }
 ]
