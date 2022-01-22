@@ -42,7 +42,7 @@ GET https://gereksiz-bilgiler-api.herokuapp.com/5
 ```
 
 ## 💪 Katkıda Bulunanlar
-* Gereksiz bilgilerim toplanmasında ve ```facts.json``` dosyasının oluşturulmasında emeği geçen [İlknur Ceren Akkaya](mailto:ilkcerakkaya@gmail.com)'ya teşekkür ederim.
+* Gereksiz bilgilerin toplanmasında ve ```facts.json``` dosyasının oluşturulmasında emeği geçen [İlknur Ceren Akkaya](mailto:ilkcerakkaya@gmail.com)'ya teşekkür ederim.
 
 ## 📃 Lisans
 * Gereksiz Bilgiler API [Apache License 2.0](https://github.com/orhanemree/gereksiz-bilgiler-api/blob/master/LICENSE) ile lisanslanmıştır.
